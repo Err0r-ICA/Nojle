@@ -3,12 +3,19 @@ The Advanced Automated Pen testing And Forensics Tool NoJle built using python i
 
 ### Installing TheDorker
 ```
-apt upgrade -y;apt update -y
+apt upgrade -y;apt update -y 
 git clone https://github.com/Err0r-ICA/NoJle
 cd Nodje
-pip o r pip3 install scapy geocoder
+pip3 install scapy geocoder
+python3 Nojle
 ```
 ## Screenshot 
 ![Screenshot](https://i.postimg.cc/NB6FG5jR/Screenshot-20200425-145246-Termux.jpg) 
 
-### Main Input: python3 - python NoJle
+### My Accounts
+
+* [TELEGRAM](https://t.me/termuxxhacking)
+
+* [FACEBOOK](https://www.facebook.com/termuxxhacking)
+
+* [INSTAGRAM](https://instagram.com/termux_hacking)
